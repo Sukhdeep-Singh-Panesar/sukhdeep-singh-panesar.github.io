@@ -1,1 +1,1 @@
-Sukhdeep Singh Portfolio Hoisting Website
+Sukhdeep Singh Portfolio
